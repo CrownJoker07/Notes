@@ -204,6 +204,7 @@ $$
 \end{pmatrix}
 $$
 
+
 $$ 
 \begin{bmatrix}
 1 & 1 & \cdots & 1 \\
